@@ -1,0 +1,212 @@
+{
+  "admins": [
+    {
+      "id": "admin-1",
+      "email": "sokhtshirt@gmail.com",
+      "passwordHash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "salt": "salt123",
+      "name": "Shokh Admin",
+      "role": "super_admin",
+      "createdAt": 1791036935333,
+      "failedAttempts": 0
+    }
+  ],
+  "customers": [],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Signature Drop Shoulder Heavyweight Tee",
+      "productType": "normal",
+      "category": "T-Shirts",
+      "price": 650,
+      "originalPrice": 790,
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+          "label": "Front"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Charcoal Gray",
+          "hex": "#374151"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#111827"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "Premium 240 GSM combed compact cotton with relaxed drop-shoulder cut.",
+      "fabric": "100% Combed Cotton",
+      "gsm": "240 GSM",
+      "fit": "Relaxed Drop Shoulder",
+      "badge": "Bestseller",
+      "sku": "SHK-TEE-001",
+      "brand": "Shokh Outfits",
+      "tags": [
+        "drop-shoulder",
+        "heavyweight",
+        "cotton"
+      ],
+      "variants": [
+        {
+          "id": "v-1",
+          "sku": "SHK-TEE-001-CC-M",
+          "color": "Charcoal Gray",
+          "size": "M",
+          "stock": 45,
+          "reserved": 0
+        }
+      ],
+      "status": "active",
+      "createdAt": 1791036935333,
+      "updatedAt": 1791036935333
+    },
+    {
+      "id": "prod-2",
+      "name": "Cyber-Samurai Printed Streetwear Graphic Tee",
+      "productType": "printed",
+      "category": "Printed T-Shirts",
+      "price": 750,
+      "originalPrice": 890,
+      "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&auto=format&fit=crop&q=80",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&auto=format&fit=crop&q=80",
+          "label": "Front"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Vintage Washed Black",
+          "hex": "#1f2421"
+        },
+        {
+          "name": "Midnight Navy",
+          "hex": "#1e293b"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "Ultra-high density DTF graphic back print with front minimal chest logo.",
+      "fabric": "100% Combed Cotton",
+      "gsm": "220 GSM",
+      "fit": "Oversized Streetwear",
+      "badge": "Popular",
+      "sku": "SHK-PRT-002",
+      "brand": "Shokh Outfits",
+      "tags": [
+        "printed",
+        "graphic",
+        "streetwear"
+      ],
+      "variants": [
+        {
+          "id": "v-2",
+          "sku": "SHK-PRT-002-VB-L",
+          "color": "Vintage Washed Black",
+          "size": "L",
+          "stock": 30,
+          "reserved": 0
+        }
+      ],
+      "status": "active",
+      "createdAt": 1791036935333,
+      "updatedAt": 1791036935333
+    },
+    {
+      "id": "prod-3",
+      "name": "Heavyweight Fleece Drop-Shoulder Hoodie",
+      "productType": "normal",
+      "category": "Hoodies",
+      "price": 1450,
+      "originalPrice": 1850,
+      "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop&q=80",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop&q=80",
+          "label": "Front"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Charcoal Heather",
+          "hex": "#374151"
+        },
+        {
+          "name": "Forest Green",
+          "hex": "#0d2822"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "380 GSM ultra-heavyweight brushed fleece hoodie.",
+      "fabric": "Cotton / Polyester Fleece",
+      "gsm": "380 GSM",
+      "fit": "Oversized Boxy",
+      "badge": "Winter Special",
+      "sku": "SHK-HUD-004",
+      "brand": "Shokh Outfits",
+      "tags": [
+        "hoodie",
+        "winter",
+        "fleece"
+      ],
+      "variants": [
+        {
+          "id": "v-3",
+          "sku": "SHK-HUD-004-CH-XL",
+          "color": "Charcoal Heather",
+          "size": "XL",
+          "stock": 25,
+          "reserved": 0
+        }
+      ],
+      "status": "active",
+      "createdAt": 1791036935333,
+      "updatedAt": 1791036935333
+    }
+  ],
+  "orders": [],
+  "customOrders": [],
+  "wholesaleOrders": [],
+  "coupons": [],
+  "reviews": [],
+  "activityLogs": [],
+  "notifications": [],
+  "settings": {
+    "businessName": "Shokh Outfits",
+    "tagline": "Minimalist Streetwear & Custom Garments",
+    "phone": "+880 1346-068854",
+    "whatsapp": "+880 1346-068854",
+    "email": "contact@shokhoutfits.com",
+    "address": "Dhaka, Bangladesh",
+    "deliveryChargeInsideDhaka": 70,
+    "deliveryChargeOutsideDhaka": 130,
+    "freeDeliveryThreshold": 2500,
+    "lowStockThreshold": 10,
+    "defaultMinWholesaleQty": 25,
+    "codEnabled": true,
+    "bkashEnabled": true,
+    "bkashMerchantNumber": "01346068854",
+    "announcementText": "🎉 Free Delivery on orders over ৳2500 across Bangladesh!",
+    "announcementActive": true
+  },
+  "sessions": []
+}
